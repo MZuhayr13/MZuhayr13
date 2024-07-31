@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohammed Zuhayr
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning computer science
+- 👀 I’m interested in data science and cloud
+- 🌱 I'm a recent computer science graduate now pursuing my masters
 - 📫 m.zuhayr2001@gmail.com
 
 <!---
